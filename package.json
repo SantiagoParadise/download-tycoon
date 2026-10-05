@@ -1,0 +1,15 @@
+{
+  "name": "download-tycoon",
+  "productName": "Download Tycoon",
+  "version": "3.0.0",
+  "description": "🖥️ Download Tycoon — симулятор загрузок, обновлений и AI",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
